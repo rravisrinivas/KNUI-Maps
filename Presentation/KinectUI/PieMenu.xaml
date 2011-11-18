@@ -1,0 +1,7 @@
+﻿<Window x:Class="KinectNUI.Presentation.KinectUI.PieMenu" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PieMenu" Height="115" Width="115" WindowStyle="None" AllowsTransparency="True" Background="#00000000" Loaded="Window_Loaded">
+    <Grid VerticalAlignment="Center" Height="110" Width="105">
+		<Ellipse Height="67" Width="88" HorizontalAlignment="Center" Name="ellipse1" Stroke="Black" VerticalAlignment="Center" Fill="#C000FF00" Margin="5,22,12,21" />
+		<Label Content="Label" Height="28" HorizontalAlignment="Center" Margin="33,41,35,0" Name="label1" VerticalAlignment="Top" />
+	</Grid>
+</Window>

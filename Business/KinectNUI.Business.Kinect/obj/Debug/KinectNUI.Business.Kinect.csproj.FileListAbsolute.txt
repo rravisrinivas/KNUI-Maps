@@ -1,0 +1,15 @@
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Business\KinectNUI.Business.Kinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Business\KinectNUI.Business.Kinect\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Business\KinectNUI.Business.Kinect\obj\Debug\KinectNUI.Business.Kinect.pdb

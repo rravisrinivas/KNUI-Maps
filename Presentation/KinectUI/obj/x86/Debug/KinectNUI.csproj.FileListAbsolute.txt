@@ -1,0 +1,54 @@
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\bin\Debug\KinectNUI.exe.config
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\bin\Debug\KinectNUI.exe
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\bin\Debug\KinectNUI.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\PieMenu.baml
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\PieMenu.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\App.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\KinectNUI_MarkupCompile.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\KinectNUI.g.resources
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\KinectNUI.Presentation.KinectUI.Properties.Resources.resources
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\KinectNUI.exe
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\kinectnui-67972\Presentation\KinectUI\obj\x86\Debug\KinectNUI.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.exe.config
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.exe
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\PieMenu.baml
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\PieMenu.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\App.g.cs
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI_MarkupCompile.cache
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.g.resources
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.Presentation.KinectUI.Properties.Resources.resources
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.exe
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.pdb
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\Ravi Srinivas\Downloads\Kinect Samples\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\MainWindow.baml
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\PieMenu.baml
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\PieMenu.g.cs
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\App.g.cs
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI_MarkupCompile.cache
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.g.resources
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.Presentation.KinectUI.Properties.Resources.resources
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.exe.config
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.exe
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.pdb
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.dll
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\bin\Debug\KinectNUI.Business.Kinect.pdb
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.exe
+C:\Users\t-ravir\Desktop\Hack Day\KNUI Workspace\Presentation\KinectUI\obj\x86\Debug\KinectNUI.pdb
